@@ -2,7 +2,6 @@
 
 <center>区块链与数字货币课程设计</center>
 <center>2018-2019学年秋冬学期</center>
-
 ## 项目立意
 
 现在的互联网产品均为中心化产品，这就导致了言论自由在某种程度上掌握在这些互联网公司的手中。
@@ -19,14 +18,14 @@
 
 使用单机的区块链模拟器ganache作为底层区块链环境。
 
-![image-20191227000516919](D:\yjn\webpro\ZhihuChain\docimg\image-20191227000516919.png)
+![image-20191227000516919](.\docimg\image-20191227000516919.png)
 
 ## 应用展示
 
 <center>数据来源：知乎app</center>
 ##### 首页
 
-![img](D:\yjn\webpro\ZhihuChain\docimg\}R~IEGWE}H{~CR3ZD[LH}7D.png) 
+![img](.\docimg\}R~IEGWE}H{~CR3ZD[LH}7D.png) 
 
 展示链上存储的所有问题，点击即可进入详情页面。问题编号是唯一的，标志了上链的顺序。
 
@@ -34,7 +33,7 @@
 
 ##### 问题详情
 
-![image-20191226233938882](D:\yjn\webpro\ZhihuChain\docimg\image-20191226233938882.png)
+![image-20191226233938882](.\docimg\image-20191226233938882.png)
 
 这里展示了用户的地址，以及用户对此问题相应的回答。
 
@@ -42,13 +41,13 @@
 
 点击我要回答，即可回答问题
 
-![image-20191226234246289](D:\yjn\webpro\ZhihuChain\docimg\image-20191226234246289.png)
+![image-20191226234246289](.\docimg\image-20191226234246289.png)
 
 前端调用metamask完成签名上链的过程。
 
 ##### 添加问题
 
-![image-20191226234729223](D:\yjn\webpro\ZhihuChain\docimg\image-20191226234729223.png)
+![image-20191226234729223](.\docimg\image-20191226234729223.png)
 
 从左往右分别为，添加问题，前端调用metamask，问题上链。
 
